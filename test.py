@@ -1,1 +1,0 @@
-print "this is data science capstone project"
